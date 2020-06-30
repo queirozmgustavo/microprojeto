@@ -1,5 +1,5 @@
-# COMUNICAÇÃO REMOTA ATRAVÉS DE API SOCKETS EM NODE.JS
-> O microprojeto utiliza API de Sockes em Node.JS para comunicação remota.
+# API DE SOCKETS EM NODE.JS
+> Desenvolvimento de um protocolo da camada de aplicação para a comunicação entre um cliente e um servidor que utilizam API de Sockets do Node.js para se comunicarem.
 <br>
 <br>
 <br>
